@@ -1,20 +1,21 @@
 # Eixo-5
 Arquitetura de Dados em Nuvem
 
-# TÍTULO DO PROJETO
-`CURSO`
-`ANO/SEMESTRE`
+# Tendências Musicais - Uma análise dos Hits da Spotify
+`Tecnologia em Banco de Dados`
+`2024/1º Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A partir da base de dados das músicas mais tocadas utilizando o aplicativo Spotify, analisar a popularidade dos gêneros para buscar traçar tendências de preferência dos usuários deste aplicativo.
 
 ## Integrantes
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* ANA VICTORIA DE OLIVEIRA SILVA
+* CAROLINA PUSCEDDU FERREIRA
+* HENRIQUE MOREIRA VILLELA
+* JOSÉ VICTOR RIBEIRO GALHARDO
+* MARIANA FRANCISCA XAVIER
 
 ## Orientador
-* Nome completo do professor 1
+* CRISTIANO SILVA
 
 # Documentação
 
