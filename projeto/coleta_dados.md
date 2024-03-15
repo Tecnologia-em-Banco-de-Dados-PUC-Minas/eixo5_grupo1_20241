@@ -3,6 +3,8 @@
 ## Base de Dados
 As bases de dados utilizadas neste projeto são de domínio público, em formato .CSV e estão disponíveis por meio do site [Kaggle.com](https://www.kaggle.com/).
 Trata-se de bases extraídas a partir do aplicativo de música denominado Spotify contendo as músicas mais tocadas entre os anos de 2010 e 2023, bem como seus atributos como gênero, popularidade, nível de dançabilidade e energia, acusticidade, dentre outros. Estes atributos compõem o algoritmo da inteligência artificial do Spotify para sugerir uma música ao seu usuário ouvinte. Por se tratar de dados abertos, as determinações previstas na Lei Geral de Proteção de Dados - LGPD não se aplicam.
+<p align="center">
+<img src="/imagens/Spotify_logo_with_text.svg.png" width="300" height="100"/>
     
 ## Repositório
 Como repositório para armazenamento dos dados, optou-se pelo Google Drive, devido a familiriadade do grupo com a ferramenta e por não envolver custos financeiros. O acesso a base de dados pode ser realizado por meio do link do [Google Drive](https://drive.google.com/drive/folders/1-yFsEqVFYHYfxF_xK2hhDhsbPmerOX-F?usp=sharing).
