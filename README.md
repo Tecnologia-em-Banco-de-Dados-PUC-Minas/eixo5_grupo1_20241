@@ -5,7 +5,7 @@ Arquitetura de Dados em Nuvem
 `Tecnologia em Banco de Dados`
 `2024/1º Semestre`
 
-A partir da base de dados das músicas mais tocadas em 2023 utilizando o aplicativo Spotify, analisar a popularidade dos gêneros para buscar traçar tendências de preferência dos usuários deste aplicativo.
+A partir da base de dados das músicas mais tocadas entre os anos de 2010 e 2023 segundo o aplicativo de streaming Spotify, analisar a popularidade dos gêneros para buscar traçar tendências de preferência dos usuários deste aplicativo.
 
 ## Integrantes
 * ANA VICTORIA DE OLIVEIRA SILVA
