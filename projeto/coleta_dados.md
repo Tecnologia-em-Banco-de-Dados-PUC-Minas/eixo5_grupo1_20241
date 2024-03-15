@@ -1,5 +1,4 @@
-# 2ª Etapa
-Governança de Dados
+# 2ª Etapa - Governança de Dados
 
 ## Base de Dados
 As bases de dados utilizadas neste projeto são de domínio público, em formato .CSV e estão disponíveis por meio do site [Kaggle.com] (https://www.kaggle.com/).Trata-se de bases extraídas a partir do aplicativo de música denominado Spotify contendo as músicas mais tocadas entre os anos de 2010 e 2023, bem como seus atributos como gênero, popularidade, nível de dançabilidade e energia, acusticidade, dentre outros. Estes atributos compõem o algoritmo da inteligência artificial do Spotify para sugerir uma música ao seu usuário ouvinte. Por se tratar de dados abertos, as determinações previstas na Lei Geral de Proteção de Dados - LGPD não se aplicam.
