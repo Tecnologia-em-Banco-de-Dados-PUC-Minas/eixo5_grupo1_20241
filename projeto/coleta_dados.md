@@ -8,3 +8,6 @@ Trata-se de bases extraídas a partir do aplicativo de música denominado Spotif
     
 ## Repositório
 Como repositório para armazenamento dos dados, optou-se pelo Google Drive, devido a familiriadade do grupo com a ferramenta e por não envolver custos financeiros. O acesso a base de dados pode ser realizado por meio do link do [Google Drive](https://drive.google.com/drive/folders/1-yFsEqVFYHYfxF_xK2hhDhsbPmerOX-F?usp=sharing).
+<p align="center">
+<img src="/imagens/GoogleDrive.PNG" width="650" height="350"/>
+    
