@@ -1,3 +1,7 @@
+<div align="right">
+<img src="/imagens/PucMinasICEI.PNG" width="200" height="150">
+</div>
+
 # Eixo-5
 Arquitetura de Dados em Nuvem
 
