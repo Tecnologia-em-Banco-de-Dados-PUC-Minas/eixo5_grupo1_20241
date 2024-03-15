@@ -29,4 +29,3 @@ A partir da base de dados das músicas mais tocadas em 2023 utilizando o aplicat
 | ETAPA 6        |[Otimização](projeto/Otimizacao.md) |
 
 
-Ao entender as nuances do comportamento dos ouvintes e das dinâmicas do mercado, este projeto visa capacitar os stakeholders a tomar decisões mais informadas em relação a estratégias de lançamento, promoção e investimento, impulsionando assim a inovação e o crescimento dentro da indústria musical.
