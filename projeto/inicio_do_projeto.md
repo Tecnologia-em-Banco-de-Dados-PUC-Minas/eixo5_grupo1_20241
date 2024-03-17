@@ -2,8 +2,9 @@
 
 Quando pensa-se em análise de dados originados em redes sociais, é comum pensar em influenciadores de todo nicho, análises sobre opiniões políticas, pesquisas sobre imagens e vídeos etc. Isso ocorre, em partes, devido ao modelo implementado pelas principais redes sociais em atividade no Brasil, que centram a produção de conteúdo em imagens, vídeos e texto (STATISTA, 2023). 
 
-<p align="center">
-<img src="/imagens/Captura de tela 2024-03-17 174912" width="300" height="100"/>
+<b>Redes sociais em número de usuários no Brasil</b>
+![Captura de tela 2024-03-17 174912](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/b9c0dc06-c019-4807-a3a3-0fcb5a849152)
+Fonte: Statista
 
 No entanto, há um segmento que tem crescido ano após ano e cujo valor de mercado deve atingir US$ 0,71 bilhão em 2024 no Brasil: o <i>streaming</i> de música (STATISTA, 2024).
 
