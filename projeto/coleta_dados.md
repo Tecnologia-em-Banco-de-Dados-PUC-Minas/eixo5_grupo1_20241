@@ -17,3 +17,7 @@ Conforme mencionado, o processo de extração da base de dados será feito de fo
 Assim, todo o desenvolvido do programa, incluindo a parte da análise preditiva por <i>Machine Learning</i> ocorrerá no Google Collab.
 
 A imagem abaixo simplifica esse processo.
+![Captura de tela 2024-03-17 182833](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/6745bdbc-46cc-4e00-b656-31a393885efa)
+Fonte: o próprio autor.
+
+
