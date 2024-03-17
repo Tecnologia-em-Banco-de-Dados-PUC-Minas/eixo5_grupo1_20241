@@ -1,6 +1,10 @@
 # 1ª Etapa - Contexto
 
-Quando pensa-se em análise de dados originados em redes sociais, é comum pensar em influenciadores de todo nicho, análises sobre opiniões políticas, pesquisas sobre imagens e vídeos etc. Isso ocorre, em partes, devido ao modelo implementado pelas principais redes sociais em atividade no Brasil, que centram a produção de conteúdo em imagens, vídeos e texto (STATISTA, 2023). No entanto, há um segmento que tem crescido ano após ano e cujo valor de mercado deve atingir US$ 0,71 bilhão em 2024 no Brasil: o <i>streaming</i> de música (STATISTA, 2024).
+Quando pensa-se em análise de dados originados em redes sociais, é comum pensar em influenciadores de todo nicho, análises sobre opiniões políticas, pesquisas sobre imagens e vídeos etc. Isso ocorre, em partes, devido ao modelo implementado pelas principais redes sociais em atividade no Brasil, que centram a produção de conteúdo em imagens, vídeos e texto (STATISTA, 2023). 
+
+
+
+No entanto, há um segmento que tem crescido ano após ano e cujo valor de mercado deve atingir US$ 0,71 bilhão em 2024 no Brasil: o <i>streaming</i> de música (STATISTA, 2024).
 
 Segundo estudo da Statista, estima-se que haja quase 52 milhões de usuários de serviço de <i>streaming</i> de música no país em 2024 - há 7 anos, eram 16,5 milhões.  Até o momento, esse mercado é disputado por seis grandes empresas: Spotify, YouTube, Deezer, Apple, SoundCloud e Amazon. No entanto, a liderança do Sportify tem sido constante e com larga vantagem frente aos rivais. Em 2022, por exemplo, ele detinha quase 64% dos inscritos em serviços de música.
 
