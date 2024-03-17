@@ -10,4 +10,10 @@ Trata-se de bases extraídas a partir do aplicativo de música denominado Spotif
 Como repositório para armazenamento dos dados, optou-se pelo Google Drive, devido a familiriadade do grupo com a ferramenta e por não envolver custos financeiros. O acesso a base de dados pode ser realizado por meio do link do [Google Drive](https://drive.google.com/drive/folders/1-yFsEqVFYHYfxF_xK2hhDhsbPmerOX-F?usp=sharing).
 <p align="center">
 <img src="/imagens/GoogleDrive.PNG" width="650" height="350"/>
-    
+
+## Representação do ciclo de vida dos dados no projeto
+Conforme mencionado, o processo de extração da base de dados será feito de forma manual do site Kaggle, com essa base em formato CSV sendo hospedada dentro do Google Drive. O objetivo é utilizar o ecossistema do Google para a estruturação, tratamento, carga e processamento de dados e análises.
+
+Assim, todo o desenvolvido do programa, incluindo a parte da análise preditiva por <i>Machine Learning</i> ocorrerá no Google Collab.
+
+A imagem abaixo simplifica esse processo.
