@@ -6,9 +6,7 @@ Quando pensa-se em análise de dados originados em redes sociais, é comum pensa
 ![Captura de tela 2024-03-17 174912](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/b9c0dc06-c019-4807-a3a3-0fcb5a849152)
 Fonte: Statista
 
-No entanto, há um segmento que tem crescido ano após ano e cujo valor de mercado deve atingir US$ 0,71 bilhão em 2024 no Brasil: o <i>streaming</i> de música (STATISTA, 2024).
-
-Segundo estudo da Statista, estima-se que haja quase 52 milhões de usuários de serviço de <i>streaming</i> de música no país em 2024 - há 7 anos, eram 16,5 milhões.  Até o momento, esse mercado é disputado por seis grandes empresas: Spotify, YouTube, Deezer, Apple, SoundCloud e Amazon. No entanto, a liderança do Sportify tem sido constante e com larga vantagem frente aos rivais. Em 2022, por exemplo, ele detinha quase 64% dos inscritos em serviços de música.
+No entanto, há um segmento que tem crescido ano após ano e cujo valor de mercado deve atingir US$ 0,71 bilhão em 2024 no Brasil: o <i>streaming</i> de música (STATISTA, 2024). Segundo estudo da Statista, estima-se que haja quase 52 milhões de usuários de serviço de <i>streaming</i> de música no país em 2024 - há 7 anos, eram 16,5 milhões.  Até o momento, esse mercado é disputado por seis grandes empresas: Spotify, YouTube, Deezer, Apple, SoundCloud e Amazon. No entanto, a liderança do Sportify tem sido constante e com larga vantagem frente aos rivais. Em 2022, por exemplo, ele detinha quase 64% dos inscritos em serviços de música.
 
 Outro detalhe que mostra as fartas possibilidades de análise advindas de bases de dados como as do Spotify é que a demografia desse segmento digital é bastante ampla equilibrada, demonstrando participações significativas de diferentes grupos etários, de gênero e de renda. Ou seja, é uma forma interessante de se observar o comportamento e o consumo de produtos musicais e noticiosos nessas plataformas.
 
