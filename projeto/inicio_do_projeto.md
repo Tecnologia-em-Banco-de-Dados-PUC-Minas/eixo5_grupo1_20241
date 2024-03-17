@@ -14,6 +14,6 @@ Através da análise desses dados, pretendemos fornecer uma compreensão mais pr
 
 Ao entender as nuances do comportamento dos ouvintes e das dinâmicas do mercado, este projeto visa capacitar os <i>stakeholders</i> a tomar decisões mais informadas em relação a estratégias de lançamento, promoção e investimento, impulsionando assim a inovação e o crescimento dentro da indústria musical.
 
-STATISTA, 2023. Most popular social media platforms in Brazil as of 3rd quarter 2023, by usage reach. URL: https://www.statista.com/statistics/1307747/social-networks-penetration-brazil/. Acesso em 17 de março de 2024.
+STATISTA, 2023. Number of users of selected social media platforms in Brazil from 2018 to 2028, by platform. URL: https://www.statista.com/statistics/1346220/social-media-users-brazil-by-platform/. Acesso em 17 de março de 2024.
 
 STATISTA, 2024. Music Streaming - Brazil. URL: https://www.statista.com/outlook/dmo/digital-media/digital-music/music-streaming/brazil. Acesso em 17 de março de 2024.
