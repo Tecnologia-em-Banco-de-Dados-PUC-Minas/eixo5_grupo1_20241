@@ -64,4 +64,37 @@ No entanto, a tentativa de criar essa métrica de popularidade para as músicas 
 
 O cálculo em questão utilizava o "Steams" como métrica de referência.
 
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/98aabfcb-14a5-4fb0-9fa6-582585c1d022)
+
+### Explorando correlações e configurando os modelos de aprendizado de máquina
+
+Com a tentativa de criar uma métrica de popularidade não obtendo sucesso, o próximo passo foi configurar os DFs para buscar correlações e configurar os ambientes de aprendizado de máquina.
+
+Usando a base de dados do Spotify, buscou-se observar possíveis correlações entre a popularidade de uma música e demais características.
+
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/ced3e3e4-81d6-454a-9f51-6b83865ba53a)
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/5052c8ee-7e1f-46c7-9b8a-402eaa37eacc)
+
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/2008a801-99b6-4e8d-94c6-0edb72e052fc)
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/5f62427e-31af-4c30-9361-46a6167d2fc3)
+
+Identificadas as correlações mais fortes entre popularidade e demais atributos musicais, passou-se para a preparação das bases de dados para que elas fossem configuradas em diferentes modelos de ML.
+
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/dce53c8d-5b9d-4fe9-bc28-7f3f5c0c4ca1)
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/f1658465-4a74-4892-9ef1-eee9ed0fdd78)
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/f5331e6b-5ed0-4dc4-8fd0-69c2881b3ff7)
+
+Para poder utilizar os modelos de ML, os DF precisaram passar pelo processo de one-hot-encondig para preparar as features categóricas para o ML.
+
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/624f450a-8707-45c7-945a-51dd560830fc)
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/b60cfca8-e17d-420a-9693-ef757f51303c)
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/67fc3752-eb52-465b-b4eb-c530bdd5d088)
+
+Depois, normalizou-se os dados numéricos.
+
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/0a72b954-b640-41c0-820d-ca925b6e111a)
+
+E dividiu-se os conjuntos de aprendizado e de teste.
+
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/5a902f39-f6f4-4a29-941c-9b19acc532ce)
 
