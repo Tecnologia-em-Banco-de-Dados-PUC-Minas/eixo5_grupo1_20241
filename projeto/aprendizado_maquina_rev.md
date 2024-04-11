@@ -98,3 +98,21 @@ E dividiu-se os conjuntos de aprendizado e de teste.
 
 ![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/5a902f39-f6f4-4a29-941c-9b19acc532ce)
 
+Com o ambiente e os DF preparados, o primeiro modelo de ML testado foi o KNN.
+
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/a7a1d9ab-d7ac-4e02-9b6d-cd72915f3f91)
+
+O erro médio quadrático foi alto, porém, mais tarde, observou-se que, dos testes, ele foi o menor.
+
+O segundo modelo foi o DecisionTree.
+
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/4d3f74f1-00e1-4cce-b42f-90a5161d418f)
+
+Por fim, testou o modelo de LinearRegression.
+
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/89575bb0-5969-45d5-b1de-da6739e945d5)
+
+Com os modelos de aprendizado de máquina configurados e os erros médios quadráticos explanados. O próximo passo foi ver a importância de cada feature musical segundo os modelos de DecisionTree e LinearRegression.
+
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/5772dc96-c2f1-4d32-b1fc-dcb9cd30ab8d)
+
