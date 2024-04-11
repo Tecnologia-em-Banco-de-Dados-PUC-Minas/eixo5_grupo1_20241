@@ -56,7 +56,12 @@ As duas etapas seguintes visaram garantir a qualidade dos dados que seriam proce
 Nesta etapa, o grupo utilizou uma base de dados que continha as músicas mais populares no Spotify e a base de dados com as músicas mais tocadas de 2023. Isso foi feito para testar um calculo de popularidade, que não existia em uma das bases. Para isso, uniu-se as duas bases e foi aplicada técnicas de ML nas músicas que eram comuns às duas bases e, assim, buscar realizar um cálculo de popularidade nos valores que eram nulos.
 
 ![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/579ee17c-1ed0-44c7-aa0b-49f4d271c8d6)
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/8bb2cb09-38d1-433c-9e3c-0dbb4feb01bf)
 
+No entanto, a tentativa de criar essa métrica de popularidade para as músicas de 2023, para deixá-las com esse valor referenciado, não deu certo. O dado não pareceu ter qualidade suficiente para ser equiparável à métrica calculada pelo Spotify, que estava presente na base de dados de 2000 até 2022.
 
+![image](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo1_20241/assets/138826075/5fc4d607-312f-4ac4-8f19-99996e6caaca)
+
+O cálculo em questão utilizava o "Steams" como métrica de referência.
 
 
