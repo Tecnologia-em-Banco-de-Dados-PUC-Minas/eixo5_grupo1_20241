@@ -1,2 +1,3 @@
 ## 5ª Etapa
 ### Análise de Resultados
+Após uma análise extensiva dos dados, em busca de um modelo de aprendizado de máquina adequado ao projeto proposto, concluiu-se que os atributos presentes na base de dados não são suficientes para obter uma correlação significativa. As relações entre os atributos de áudio e a popularidade apresentaram coeficientes baixos, o que impossibilita a construção de um algoritmo capaz de prever a popularidade com base nesses atributos. Acredita-se que a versão da base de dados de domínio público seja mais limitida que a versão paga. Assim, para uma análise mais acurada, seria necessário um investimento financeiro na obtenção dos dados. 
