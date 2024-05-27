@@ -1,7 +1,7 @@
 # 3ª Etapa - Pré-Processamento de Dados
 
 ## Entendendo a Base de Dados
-A base de dados cedida pelo Spotify possui informações categorizadas como 'features'. Seu significado está disponivel na página [Spotify for Developers](https://developer.spotify.com/documentation/web-api/reference/get-audio-features). As principais abordads neste trabalho são:
+A base de dados cedida pelo Spotify possui informações categorizadas como 'features'. Seu significado está disponível na página [Spotify for Developers](https://developer.spotify.com/documentation/web-api/reference/get-audio-features). As principais abordads neste trabalho são:
 
 * **Tom (_Key_)**: o tom principal em que a música é tocada. Seu formato está em notação _American Standard Pitch Notation (ASPN)_, ou seja, em notação padrão americana de altura. Consiste basicamente especificar a altura do som, associando uma nota musical ou sua letra representativa a um número que identifica a oitava da nota.Se a nota não for detectada, o valor é -1. Valores são apresentados como números inteiros (_integer_).
 <div align="center">
