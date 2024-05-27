@@ -7,7 +7,7 @@ Para a realização deste trabalho, optou-se por estruturar as bases de dados em
 
 Com as bases de dados organizadas dentro do Google Drive, foi preciso preparar o ambiente de dados do Colab do Google para a vinculação com as bases.
 
-Para isso, foi preciso importar as seguintes bibliotecad do Python: pandas, numpy e google.colab.
+Para isso, foi preciso importar as seguintes bibliotecas do Python: pandas, numpy e google.colab.
 
 Na sequência, foi preciso importar a conexão do Colab com o Drive do Google.
 
