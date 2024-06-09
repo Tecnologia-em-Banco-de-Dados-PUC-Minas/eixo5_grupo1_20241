@@ -1,7 +1,7 @@
 ## 5ª Etapa
 ### Análise de Resultados
 
-Como o objetivo inicial era prever os valores de 'popularity' do dataset 'df_2023', e este não possui algumas das features utilizadas no treinamento anterior, novos modelos foram treinados mantendo apenas as features comuns aos dois datasets.
+Como o objetivo inicial era prever os valores da coluna 'popularity' no dataset 'df_2023', e este não possui algumas das features utilizadas no treinamento anterior, novos modelos foram treinados mantendo apenas as features comuns aos dois datasets.
 
 ![image](../imagens/etapa5/1-features-comuns.png)
 
@@ -27,7 +27,7 @@ A ordem das colunas foi alterada, o predict foi realizado
 
 ![image](../imagens/etapa5/7-predict-decision-tree.png)
 
-e os dados previstos foram acrescentado ao dataset
+E os dados previstos foram acrescentado ao dataset
 
 ![image](../imagens/etapa5/8-previsoes.png)
 
