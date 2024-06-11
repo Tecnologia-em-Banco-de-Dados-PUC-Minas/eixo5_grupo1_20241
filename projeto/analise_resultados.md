@@ -56,13 +56,13 @@ Avaliamos o resultado anterior e realizamos o treinamento do modelo utilizando o
 
 Comparamos o resultado obtido com o modelo com os valores reais do conjunto de teste
 
+![image](../imagens/etapa5/16-comparacao-treino-predict.png)
 
 Realizamos o predict nos dados do dataset df_2023
 
 ![image](../imagens/etapa5/15-previsoes.png)
 
-
 E comparamos os resultados obtidos com os modelos treinados pelos dois datasets
-
+![image](../imagens/etapa5/17-comparacao-2022.png)
 
 Após uma análise extensiva dos dados, em busca de um modelo de aprendizado de máquina adequado ao projeto proposto, concluiu-se que os atributos presentes na base de dados não são suficientes para obter uma correlação significativa. As relações entre os atributos de áudio e a popularidade apresentaram coeficientes baixos, o que impossibilita a construção de um algoritmo capaz de prever a popularidade com base nesses atributos. Acredita-se que a versão da base de dados de domínio público seja mais limitida que a versão paga. Assim, para uma análise mais acurada, seria necessário um investimento financeiro na obtenção dos dados. 
