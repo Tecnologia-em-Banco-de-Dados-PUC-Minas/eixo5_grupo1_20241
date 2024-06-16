@@ -65,4 +65,8 @@ Realizamos o predict nos dados do dataset df_2023
 E comparamos os resultados obtidos com os modelos treinados pelos dois datasets
 ![image](../imagens/etapa5/17-comparacao-2022.png)
 
-Após uma análise extensiva dos dados, em busca de um modelo de aprendizado de máquina adequado ao projeto proposto, concluiu-se que os atributos presentes na base de dados não são suficientes para obter uma correlação significativa. Atribui-se este resultado ao fato que toda a base é composta de músicas populares e, portanto, todos os atributos possuem valores similares de relevância. Com o objetivo de testar tal hipótese, foi utilizada a base de músicas impopulares, conforme desmonstrado abaixo:
+As previsões acima demonstram pouca variação. Inicialmente pensou-se que este resultado devia-se ao fato que toda a base é composta de músicas populares e, portanto, todos os atributos possuíam valores similares de relevância. Com o objetivo de testar tal hipótese, foi utilizada a base de músicas impopulares, conforme desmonstrado abaixo:
+
+
+
+No entanto, os valores de previsão continuavam sem variação esperada. Após uma análise extensiva dos dados, em busca de um modelo de aprendizado de máquina adequado ao projeto proposto, concluiu-se que os atributos presentes na base de dados não são suficientes para obter uma correlação significativa. 
